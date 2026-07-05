@@ -17,8 +17,8 @@ Building AI-native workflow systems toward multi-agent trust systems and post-IP
 
 ## Projects
 
-- `algorithmLearning` — algorithm notes and practice.
-- `study-ai-recorder` — private macOS learning planner with activity tracking and a structured AI review agent.
+- `study-ai-recorder` — public macOS learning planner with activity tracking and a structured AI review agent.
+- `algorithmLearning` — private algorithm notes and practice archive.
 - `Process-Zero` — private early-stage Aitopia experiment.
 
 ## Notes
